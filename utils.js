@@ -5,5 +5,6 @@ export function formatDate(date) {
 }
  // updated
 export function validateEmail(email) {
+  // Update: commit 55
     return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 }
