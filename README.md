@@ -4,6 +4,7 @@ A musical octo fortnight project
 
 ## Installation
 
+// Updated at 2026-01-10
 \`\`\`bash
 npm install
 \`\`\`
