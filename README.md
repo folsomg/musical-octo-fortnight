@@ -20,6 +20,6 @@ npm start
 - Feature 2
 - Feature 3
 
-## License
+## License // updated
 
 MIT
